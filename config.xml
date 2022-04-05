@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+   <db_name>coffee_management</db_name>
+   <user>postgres</user>
+   <host>127.0.0.1</hosts>
+   <port>5432</port>
+   <password>12345678</password>
+</config>
